@@ -1,0 +1,143 @@
+.main_div {
+    padding: 15px 22px;
+}
+.outer_btn {
+    justify-content: center;
+    display: flex;
+    padding: 12px;
+    margin-top: 70px;
+}
+.userlisttable {
+    text-align: left;
+    width: 670px;
+    height: 234px;
+    border-collapse: collapse;
+    padding: 8px;
+    margin-left: 300px;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+tr:hover {
+    background-color: coral;
+}
+.o_btn {
+    margin-left: 64px;
+    width: 130px;
+    height: 30px;
+    cursor: pointer;
+}
+.heading {
+    margin-left: 350px;
+    text-align: center;
+    width: 270px;
+    background-color: rgb(155, 240, 240);
+}
+.f_btn {
+    width: 65px;
+    height: 27px;
+    text-align: center;
+    cursor: pointer;
+}
+.i_btn {
+    width: 55px;
+    height: 27px;
+    text-align: center;
+    cursor: pointer;
+}
+.upper_tr {
+    background-color: #04AA6D;
+    color: white;
+}
+.inner_btn {
+    float: left;
+    margin: 10px 20px;
+}
+button {
+    border: none;
+    background-color: #04AA6D;
+    color: white;
+    cursor: pointer;
+    padding: 8px 13px;
+
+}
+.inpt {
+    width: 40%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+}
+.container {
+    margin: 36px 169px;
+}
+.modal {
+    justify-content: center;
+}
+.user_label {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+}
+.userrow {
+    padding: 0px 12px;
+}
+.userdata {
+    padding: 0px 12px;
+}
+.tablehead {
+    padding: 13px 12px;
+}
+.form_btn {
+    text-align: center;
+}
+.todolisttable {
+    text-align: left;
+    width: 670px;
+    border-collapse: collapse;
+    margin-left: 300px;
+}
+.out_btn {
+    text-align: center;
+}
+.inr_btn {
+    margin-left: 20px;
+}
+.form_btn2 {
+    margin-left: 20px;
+
+}
+.doinpt {
+    width: 40%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+}
+.doinpt_des {
+    width: 40%;
+    height: 150px ;    
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+}
+.dolabel {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+}
+.todoform_btn {
+    float: right;
+}
+.expired {
+    color: red;
+    font-size: 10px;
+}
+.searchinpt {
+    width: 200px;
+    height: 30px;
+    border: 2px solid #04AA6D;
+}
